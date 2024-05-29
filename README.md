@@ -9,6 +9,7 @@
 - 💬 What do I do outside ~football~ programming? Yea you guessed it 😁, I play football.
 - 👯 if you want to work with me, reach out on [LinkedIn](www.linkedin.com/in/coleman-enocks/) 
 - 🚧 Portfolio website revamp in progress ...
+- ⚡ Fun fact: My all time tech celebrity crush -> Konami 🚀
 
 #### 👨‍💻 Tech stack and tools:
 
@@ -23,5 +24,6 @@
 ![firebase](https://github.com/colenocks/colenocks/assets/44965213/7538dd8c-1952-46b8-a7bb-570e7add5ea6)
 ![sentry](https://github.com/colenocks/colenocks/assets/44965213/fecb2ac0-410e-4346-bd3c-13b89b460196)
 
+<br />
 
-- ⚡ Fun fact: My all time tech celebrity crush -> Konami 🚀 
+[![GitHub Streak](https://streak-stats.demolab.com?user=colenocks&theme=gruvbox-duo&border_radius=10)](https://git.io/streak-stats)
