@@ -9,7 +9,7 @@
 - 💬 What do I do outside ~football~ programming? Yea you guessed it 😁, I play football.
 - 👯 if you want to work with me, reach out on [LinkedIn](www.linkedin.com/in/coleman-enocks/) 
 - 🚧 Portfolio website revamp in progress ...
-- ⚡ Fun fact: My all time tech celebrity crush -> Konami 🚀
+<!-- - ⚡ Fun fact: My all time tech company crush -> Konami 🚀 -->
 
 #### 👨‍💻 Tech stack and tools:
 
