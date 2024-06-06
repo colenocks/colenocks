@@ -5,9 +5,9 @@
 -->
 
 - 🙋‍♂️ A fun and decent guy who's stuck in the web of programming. 
-- 🔭 I am currently working on a few side projects at the moment.
+- 🔭 I am currently working on a side project.
 - 💬 What do I do outside ~football~ programming? Yea you guessed it 😁, I play football.
-- 👯 if you want to work with me, reach out on [LinkedIn](www.linkedin.com/in/coleman-enocks/) 
+- 👯 if you want to collaborate or build cool stuffs, you can [get in touch](https://www.colenocks.com) with me🙂.
 <!-- - ⚡ Fun fact: My all time tech company crush -> Konami 🚀 -->
 
 #### 👨‍💻 Tech stack and tools:
